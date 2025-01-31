@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://barongsaihokki.github.io/sitemap.xml
